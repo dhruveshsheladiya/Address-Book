@@ -21,7 +21,7 @@ public class ModelTests {
     @After
     public void cleanDatabase()
     {
-        //Clean up inserted testing data inserted by tests!!
+        //Clean up data inserted by tests!!
     }
 
 
